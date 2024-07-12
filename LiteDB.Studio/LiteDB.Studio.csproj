@@ -353,8 +353,8 @@
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\LiteDB\LiteDB\LiteDB.csproj">
-      <Project>{70e32ff1-6e08-4bf0-9c99-33e1f3711dd7}</Project>
+    <ProjectReference Include="..\..\LiteDB\LiteDB\LiteDB.csproj">
+      <Project>{882c5706-d5b4-4e28-94eb-4c3b873d53ab}</Project>
       <Name>LiteDB</Name>
     </ProjectReference>
   </ItemGroup>
